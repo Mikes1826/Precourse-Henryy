@@ -1,2 +1,1 @@
-# Precourse-Henryy
-este es un reprositorio de prueba del precourse de henry
+este proyecto es una prueba de como crear un repositorio y como clonarlo desde github  a mi computadora
